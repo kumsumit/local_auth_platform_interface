@@ -1,4 +1,5 @@
 name: local_auth_platform_interface
+publish_to: none
 description: A common platform interface for the local_auth plugin.
 repository: https://github.com/flutter/packages/tree/main/packages/local_auth/local_auth_platform_interface
 issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+local_auth%22
