@@ -293,10 +293,10 @@
       "name": "local_auth_platform_interface",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-12-13T06:26:23.222147Z",
+  "generated": "2024-12-16T06:24:19.165852Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///home/sumit/softwares/flutter",
